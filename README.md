@@ -4,7 +4,7 @@
 - 🚀 I’m excited to dive deeper into the world of data and continue building projects that showcase the impact of data-driven solutions!- 💼 I’m passionate about analyzing and interpreting data to solve real-world problems, with a particular interest in the impact of weather on flight delays and cancellations.
 - 🔧 Skills: Python, SQL, Excel, Data Visualization, IT Support, PC Troubleshooting, and System Configuration.- 📫 How to reach me ...
 - ☕  Fun fact: My code runs better after a cup of coffee (or two)!"
-  
+📫 Reach me at: [https://www.linkedin.com/in/mandeep-sohi-22643118b/] | [mandeepsohi571@gmail.com]
 
 <!---
 MandeepKaurSohi/MandeepKaurSohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
