@@ -14,7 +14,6 @@
 
 - 🤝 Open to collaborations on data-related projects and opportunities in IT administration and analysis.- ☕  Fun fact: My code runs better after a cup of coffee (or two)!
   
-- 📫 Reach me at: [https://www.linkedin.com/in/mandeep-sohi-22643118b/] | [mandeepsohi571@gmail.com]
 
 <!---
 MandeepKaurSohi/MandeepKaurSohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
