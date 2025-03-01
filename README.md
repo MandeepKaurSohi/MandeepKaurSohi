@@ -10,7 +10,7 @@
 
 - 💼 I’m passionate about analyzing and interpreting data to solve real-world problems, with a particular interest in the impact of weather on flight delays and cancellations.
   
-- 🔧 Skills: Python, SQL, Excel, Data Visualization, IT Support, PC Troubleshooting, and System Configuration.
+- 🔧 Skills: Python, SQL, Excel, Data Visualization, Tableau Dashboards, ETL process with python PySpark, Pandas, Matplotlib, IT Support, PC Troubleshooting, and System Configuration.
 
 - 🤝 Open to collaborations on data-related projects and opportunities in IT administration and analysis.- ☕  Fun fact: My code runs better after a cup of coffee (or two)!
   
